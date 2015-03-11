@@ -1,0 +1,37 @@
+{
+    "name": "omnipay/amazon-payments",
+    "type": "library",
+    "description": "Amazon payments driver for the Omnipay payment processing library",
+    "keywords": [
+        "amazon",
+        "gateway",
+        "merchant",
+        "omnipay",
+        "pay",
+        "payment",
+        "payments",
+        "amazon payments"
+    ],
+    "homepage": "https://github.com/lemonstand/omnipay-amazon",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Andres Perdomo",
+            "email": "andy@lemonstand.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": { "Omnipay\\AmazonPayments\\" : "src/" }
+    },
+    "require": {
+        "omnipay/common": "~2.0"
+    },
+    "require-dev": {
+        "omnipay/tests": "~2.0"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "2.0.x-dev"
+        }
+    }
+}
