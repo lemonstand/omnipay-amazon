@@ -1,5 +1,5 @@
 {
-    "name": "omnipay/amazon",
+    "name": "lemonstand/omnipay-amazon",
     "type": "library",
     "description": "Amazon payments driver for the Omnipay payment processing library",
     "keywords": [
