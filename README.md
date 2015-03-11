@@ -2,6 +2,8 @@
 
 **Amazon Payments driver for the Omnipay PHP payment processing library**
 
+[![Latest Stable Version](https://poser.pugx.org/lemonstand/omnipay-amazon/v/stable.svg)](https://packagist.org/packages/lemonstand/omnipay-amazon) [![Total Downloads](https://poser.pugx.org/lemonstand/omnipay-amazon/downloads.svg)](https://packagist.org/packages/lemonstand/omnipay-amazon) [![Latest Unstable Version](https://poser.pugx.org/lemonstand/omnipay-amazon/v/unstable.svg)](https://packagist.org/packages/lemonstand/omnipay-amazon)
+
 [Omnipay](https://github.com/thephpleague/omnipay) is a framework agnostic, multi-gateway payment
 processing library for PHP 5.3+. This package implements Netaxept support for Omnipay.
 
